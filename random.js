@@ -7,4 +7,9 @@ var output    = Math.round(randomNum);
 // console.log(result);
 // console.log(result2);
 // console.log(result3);
+for (var i = 0; i<10; i++){
+   var randomNum = Math.random() *10;
+var output    = Math.round(randomNum);
+  console.log(output); 
+}
 console.log(output);
