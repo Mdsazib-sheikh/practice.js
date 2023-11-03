@@ -1,4 +1,4 @@
-var marks = [45,23,52,82,70,90,];
+var marks = [45,23,111,82,70,90,];
 var max   = marks [0];
 for( var i = 0; i<marks.length; i++){
     var element = marks[i];
@@ -6,4 +6,4 @@ for( var i = 0; i<marks.length; i++){
         max = element ;
        }
 }
-console.log("Height alue is =", max);
+console.log("Heighest alue is =", max);
