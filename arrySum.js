@@ -16,4 +16,6 @@ return sum;
 }
 var numbers =[12,23,24,4,67];
 var result = getArrySum(numbers);
+var total  =getArrySum([12,23,42,56]);//new system add
+console.log("total number of :", total);
 console.log("total of the numbers: =", result);
