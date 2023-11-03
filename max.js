@@ -20,5 +20,5 @@ console.log(max);
 //         console.log("socib is bigger");
 //     }
 // }
-.
+
 
