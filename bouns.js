@@ -31,5 +31,6 @@ function largestNumber(numbers){
     }
     return larger;
 }
-var output =largestNumber([45,78,40]);
+var numbers =[45,78,40];
+var output =largestNumber(numbers);
 console.log(output);
